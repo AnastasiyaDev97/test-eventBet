@@ -48,7 +48,6 @@
 ```bash
 # Клонирование репозитория
 git clone <repository-url>
-cd test-zabalotskikh
 
 # Установка зависимостей
 npm install
